@@ -1,0 +1,14 @@
+7400124677
+7400124677
+
+
+insert into TMWSQLDB301.datatmw.dbo.zzxtaxtp (a,b,c)
+
+select distinct n,p,q from TMWSQLBCTST301.datatmws.dbo.zzxtaxtp
+
+
+
+
+
+
+4212034
